@@ -96,7 +96,7 @@
 								 
 								 <div class="login-btn">
 									 
-									 <button type="submit" class="bg-red" id="btnLogin"><span>로그인2</span></button> 
+									 <button type="submit" class="bg-red" id="btnLogin"><span>로그인</span></button> 
 								 </div>
 							 </div>
 						 </div><!-- /lgoinbox-wrap -->
