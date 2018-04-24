@@ -15,7 +15,7 @@
 						    <h3><i class="fab fa-whmcs"></i></h3>
 							<h4 class="eng-mont">NOVOPAY ADMIN</h4>
 							<h5 class="eng-mont">NOVOPAY ADMIN</h5>
-							<p>간편함 그 이상의 결제 노보페이!<br />노보페이 가맹점 관리시스템에 오신 여러분을 환영합니다!.</p>
+							<p>간편함 그 이상의 결제 노보페이!<br />노보페이 가맹점 관리시스템에 오신 여러분을 환영합니다.</p>
 						</div>
 					</header>
 
