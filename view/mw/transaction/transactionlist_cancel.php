@@ -265,7 +265,7 @@
 				 <article class="paytable-wrap cont-box">
 				     <div class="table-download"><a href="#" id="excel_down" name ="excel_down" alt="엑셀다운로드" title="엑셀다운로드" >엑셀다운로드</a></div>
 				     <div class="paytable-cont">
-					     <table summary="" class="paytable">
+					     <table summary="" class="paytable" style="width:1800px;">
 						     <caption>거래내역조회</caption>
 							 <colgroup>
 							     <col width="4%">							     
@@ -277,7 +277,7 @@
 							     <col width="3%">
 							     <col width="3%">							     
 							     <col width="3%">
-							     <col width="6%">
+							     <col width="14%">
 							     <col width="7%">
 							     <col width="7%">
 							     <col width="15%">							     
