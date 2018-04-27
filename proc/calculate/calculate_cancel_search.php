@@ -26,6 +26,7 @@ if(empty($calno)) $calno ="";
 
 
 $sql = " call proc_mallCalculateCancelSearch('%".$mallnm."%','".$fromDate."','".$toDate."','%".$calno."%',".$pageperline.",".$perPage."); ";		
+//$objRes->fail($sql);
 $list = $dbp->get_all($sql);
 
 $totCnt =0;
