@@ -277,10 +277,10 @@
 							     <col width="3%">
 							     <col width="3%">							     
 							     <col width="3%">
-							     <col width="14%">
-							     <col width="7%">
-							     <col width="7%">
-							     <col width="15%">							     
+							     <col width="20%">
+							     <col width="6%">
+							     <col width="6%">
+							     <col width="14%">							     
 							 </colgroup>
 							 <thead>
 							     <tr>
