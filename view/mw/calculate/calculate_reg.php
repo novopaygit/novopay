@@ -172,7 +172,7 @@
 					return false;
 				}
 
-				if(!confirm("정산등록(정산금액 : "+ calamt+"월)을 진행하시겠습니까?")){
+				if(!confirm("정산등록(정산금액 : "+ calamt+"원)을 진행하시겠습니까?")){
 					return false;
 				}
 				//calamtnum = uncommaNumber(calamt);
